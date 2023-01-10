@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RemoteDesktopControl</string>
+    <string name="title_activity_accueil">Accueil</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Accueil_validate_button">Connect</string>
+    <string name="Accueil_hint_ip">Ex : 0.0.0.0</string>
+    <string name="Accueil_text_ip">IP address</string>
+    <string name="Accueil_titre">Connection to a computer</string>
+    <string name="Accueil_text_port">Port</string>
+    <string name="Accueil_hint_port">Ex : 5000</string>
+    <string name="Remote_click_gauche">Left click</string>
+    <string name="Remote_click_droit">Right click</string>
+    <string name="Remote_connection">Connected to</string>
+</resources>
